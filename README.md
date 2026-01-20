@@ -103,7 +103,11 @@ This prevents mismatches such as:
 - npm
 
 ---
-
+Frontend Setup
+cd ClientApp
+npm install
+npm start
+Access the app at:
 ## 🚀 Local Setup Instructions
 
 ### Backend Setup
@@ -113,8 +117,10 @@ dotnet restore
 dotnet run
 Backend will start on:
 http://localhost:5000
+```bash
 Frontend Setup
 cd ClientApp
 npm install
 npm start
 Access the app at:
+## 🚀 Local Setup Instructions
